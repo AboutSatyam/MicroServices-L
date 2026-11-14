@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/02-AdminServer/pom.xml" />
         <option value="$PROJECT_DIR$/01-Eureka_Server/pom.xml" />
         <option value="$PROJECT_DIR$/04-MicroServ-2/pom.xml" />
+        <option value="$PROJECT_DIR$/05-CloudConfig_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/06-CloudCOnfig_Client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
