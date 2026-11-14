@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/04-MicroServ-2/pom.xml" />
         <option value="$PROJECT_DIR$/05-CloudConfig_Server/pom.xml" />
         <option value="$PROJECT_DIR$/06-CloudCOnfig_Client/pom.xml" />
+        <option value="$PROJECT_DIR$/07-Redis_L/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
