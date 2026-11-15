@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/07-Redis_L/pom.xml" />
         <option value="$PROJECT_DIR$/08-API_Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/09-Resilience4J/pom.xml" />
+        <option value="$PROJECT_DIR$/10-ApacheKafka/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
