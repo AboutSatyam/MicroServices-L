@@ -12,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/06-CloudCOnfig_Client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-Redis_L/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-API_Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-Resilience4J/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
